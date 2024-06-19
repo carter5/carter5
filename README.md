@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=250&color=0CE82B&background=000000&center=true&vCenter=true&multiline=true&random=false&width=435&height=100&lines=Hi+there!;My+name+is+Jarai.;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1500&pause=500&color=0CE82B&background=000000&center=true&vCenter=true&multiline=true&random=false&width=500&height=130&lines=Hi+there!;My+name+is+Jarai.;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
 ## 🚀 About Me:
 - 👩‍💻 I'm a Senior Manager of Data Science.
@@ -21,7 +21,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="r" width="55" height="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" alt="rstudio" width="55" height="55" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" alt="plotly" width="55" height="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="55" height="55" />
 </div>
 
 ### Creative
@@ -39,6 +38,7 @@
 <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carter5&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
 
 ### README Code Sources:
-- Typing Banner: https://streak-stats.demolab.com/demo/
+- Typing Banner: https://readme-typing-svg.demolab.com/demo/
+- GitHub Stats: https://streak-stats.demolab.com/demo/
 - Tech Icons: https://devicon.dev/
 - Most Used Language Stats: https://github.com/anuraghazra/github-readme-stats
