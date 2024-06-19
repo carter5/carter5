@@ -5,6 +5,8 @@
 - 📝 I regulary write articles for my newsletter called: [I Forgot My Homework](https://iforgotmyhomework.substack.com/)
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Jarai-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jaraicarter)
 
+<img src="jarai_octocat.png" alt="html" width="200" height="200"/>
+
 ### Programming
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="55" height="55"/>
