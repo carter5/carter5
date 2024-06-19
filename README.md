@@ -42,3 +42,7 @@
 - GitHub Stats: https://streak-stats.demolab.com/demo/
 - Tech Icons: https://devicon.dev/
 - Most Used Language Stats: https://github.com/anuraghazra/github-readme-stats
+- Build your Octocat: https://myoctocat.com/build-your-octocat/
+
+### Visitor Count:
+<img src="https://profile-counter.glitch.me/carter5/count.svg" />
