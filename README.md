@@ -4,7 +4,6 @@
 - 👩‍💻 I'm a Senior Manager of Data Science.
 - 📝 I regulary write articles for my newsletter called: [I Forgot My Homework](https://iforgotmyhomework.substack.com/)
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Jarai-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jaraicarter)
-- 💻 Tech I have worked with:
 
 ### Programming
 <div align="left">
@@ -37,3 +36,9 @@
 
 ## 🔥 My Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=carter5&theme=vue&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carter5&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+
+### README Code Sources:
+- Typing Banner: https://streak-stats.demolab.com/demo/
+- Tech Icons: https://devicon.dev/
+- Most Used Language Stats: https://github.com/anuraghazra/github-readme-stats
