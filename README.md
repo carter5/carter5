@@ -49,12 +49,17 @@
 ## ✨ My Octocat:
 <img src="jarai_octocat.png" alt="html" width="200" height="200"/>
 
-### README Code Sources:
+## 📄 README Code Sources:
+- Inspirations: https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#tools
 - Typing Banner: https://readme-typing-svg.demolab.com/demo/
 - Tech Icons: https://devicon.dev/
 - GitHub Stats: https://streak-stats.demolab.com/demo/
 - Most Used Language Stats: https://github.com/anuraghazra/github-readme-stats
 - Build your Octocat: https://myoctocat.com/build-your-octocat/
+- Trophies: https://github.com/ryo-ma/github-profile-trophy/tree/master
 
-### Visitor Count:
+## 🏆 Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=carter5&theme=juicyfresh&title=Experience,Stars,Commits,Followers,Repositories)](https://github.com/carter5/github-profile-trophy)
+
+## 👥 Visitor Count:
 <img src="https://profile-counter.glitch.me/carter5/count.svg" />
