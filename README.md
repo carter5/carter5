@@ -3,7 +3,7 @@
 ## 🚀 About Me:
 - 👩‍💻 I'm a Senior Manager of Data Science.
 - 🎓 B.S. in Crop Sciences & Ph.D. in Informatics
-- 📝 I regulary write articles for my newsletter called: [I Forgot My Homework](https://iforgotmyhomework.substack.com/)
+- 📝 I write articles for my newsletter called: [I Forgot My Homework](https://iforgotmyhomework.substack.com/)
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Jarai-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jaraicarter)
 
 
@@ -49,6 +49,12 @@
 ## ✨ My Octocat:
 <img src="jarai_octocat.png" alt="html" width="200" height="200"/>
 
+## 🏆 Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=carter5&theme=juicyfresh&title=Experience,Stars,Commits,Followers,Repositories)](https://github.com/carter5/github-profile-trophy)
+
+## 👥 Visitor Count:
+<img src="https://profile-counter.glitch.me/carter5/count.svg" />
+
 ## 📄 README Code Sources:
 - Inspirations: https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#tools
 - Typing Banner: https://readme-typing-svg.demolab.com/demo/
@@ -57,9 +63,4 @@
 - Most Used Language Stats: https://github.com/anuraghazra/github-readme-stats
 - Build your Octocat: https://myoctocat.com/build-your-octocat/
 - Trophies: https://github.com/ryo-ma/github-profile-trophy/tree/master
-
-## 🏆 Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=carter5&theme=juicyfresh&title=Experience,Stars,Commits,Followers,Repositories)](https://github.com/carter5/github-profile-trophy)
-
-## 👥 Visitor Count:
-<img src="https://profile-counter.glitch.me/carter5/count.svg" />
+- Visitor Counter: https://github.com/YogPanjarale/profile-counter
