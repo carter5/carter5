@@ -1,18 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1500&pause=500&color=0CE82B&background=000000&center=true&vCenter=true&multiline=true&random=false&width=500&height=130&lines=Hi+there!;My+name+is+Jarai.;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
 ## 🚀 About Me:
-- 👩‍💻 I'm a Senior Manager of Data Science.
+- 👩‍💻 I'm an Industry Consultant at the University of Illinois and a Lecturer at Columbia University.
 - 🎓 B.S. in Crop Sciences & Ph.D. in Informatics
-- 📝 I write articles for my newsletter called: [I Forgot My Homework](https://iforgotmyhomework.substack.com/)
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Jarai-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jaraicarter)
 
 
 ## 💬 Ask Me About:
+- AI, Data Science, Machine Learning
+- Analytics Education/Teaching
+- Career Building and Guidance
+- Data Project Design
 - Data Visualization
 - Social Media & Network Analysis
 - Text Analysis (Sentiment, Networks)
-- Machine Learning
-- Data Project Design
 
 ## 💻 Programming Tools:
 <div align="left">
@@ -42,25 +43,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="canva" width="55" height="55" />
 </div>
 
-## 📊 My Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=carter5&theme=vue&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carter5&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-
-## ✨ My Octocat:
-<img src="jarai_octocat.png" alt="html" width="200" height="200"/>
-
-## 🏆 Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=carter5&theme=juicyfresh&title=Experience,Stars,Commits,Followers,Repositories)](https://github.com/carter5/github-profile-trophy)
-
-## 👥 Visitor Count:
-<img src="https://profile-counter.glitch.me/carter5/count.svg" />
-
 ## 📄 README Code Sources:
 - Inspirations: https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#tools
 - Typing Banner: https://readme-typing-svg.demolab.com/demo/
 - Tech Icons: https://devicon.dev/
-- GitHub Stats: https://streak-stats.demolab.com/demo/
-- Most Used Language Stats: https://github.com/anuraghazra/github-readme-stats
-- Build your Octocat: https://myoctocat.com/build-your-octocat/
-- Trophies: https://github.com/ryo-ma/github-profile-trophy/tree/master
-- Visitor Counter: https://github.com/YogPanjarale/profile-counter
