@@ -14,7 +14,7 @@
 - Social Media & Network Analysis
 - Text Analysis (Sentiment, Networks)
 
-## 💻 Programming:
+## 💻 Cloud & Programming Tools:
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="anaconda" width="45" height="45"/>
@@ -43,7 +43,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 </div>
 
-## Databases:
+## 🔑 Database Tools:
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="microsoft sql server" width="45" height="45" />
