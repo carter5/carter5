@@ -5,7 +5,6 @@
 - 🎓 B.S. in Crop Sciences & Ph.D. in Informatics
 - 🖥 Find me on LinkedIn: &nbsp;[![Linkedin Badge](https://img.shields.io/badge/-Jarai-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jaraicarter)
 
-
 ## 💬 Ask Me About:
 - AI, Data Science, Machine Learning
 - Analytics Education/Teaching
@@ -32,7 +31,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" alt="rstudio" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" alt="plotly" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="github" width="45" height="45"/>
-
 </div>
 
 ## 🎨 Creative Tools:
@@ -44,6 +42,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-plain.svg" alt="premiere pro" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="canva" width="45" height="45" />
 </div>
+
+## 🌳 My Bonsai Tree:
+
 
 ## 📄 README Code Sources:
 - Inspirations: https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#tools
