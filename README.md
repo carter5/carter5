@@ -50,3 +50,4 @@
 - Inspirations: https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#tools
 - Typing Banner: https://readme-typing-svg.demolab.com/demo/
 - Tech Icons: https://devicon.dev/
+- Git Bonsai: https://github.com/egorthinks/git-bonsai
