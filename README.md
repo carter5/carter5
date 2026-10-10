@@ -73,11 +73,14 @@
 ## 🌳 My Bonsai Tree:
 <img src="output/bonsai-growth.gif" width="384" alt="my git-bonsai" />
 
+![](https://komarev.com/ghpvc/?username=carter5&color=brightgreen)
+
 ## 📄 README Code Sources:
 - Inspirations: https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#tools
 - Typing Banner: https://readme-typing-svg.demolab.com/demo/
 - Tech Icons: https://devicon.dev/
 - Top Languages: https://github.com/seuthootDev/github-readme-insight-terminal-ascii
 - Git Bonsai: https://github.com/egorthinks/git-bonsai
+- Profile Views Counter: https://github.com/antonkomarev/github-profile-views-counter
 
-![Contador de Visitas](https://gitcard-studio.creativecode.com.co/api/views?username=carter5&theme=dark&preview=true&label=Profile%20views&style=flat)
+
