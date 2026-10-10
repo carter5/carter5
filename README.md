@@ -73,3 +73,5 @@
 - Typing Banner: https://readme-typing-svg.demolab.com/demo/
 - Tech Icons: https://devicon.dev/
 - Git Bonsai: https://github.com/egorthinks/git-bonsai
+
+![Contador de Visitas](https://gitcard-studio.creativecode.com.co/api/views?username=carter5&theme=dark&preview=true&label=Profile%20views&style=flat)
