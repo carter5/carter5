@@ -65,6 +65,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="canva" width="45" height="45" />
 </div>
 
+## Top Languages:
+![GitHub top languages](https://github-readme-insight-terminal-asci.vercel.app/svg/top-lang?user=carter5&theme=mac&top=8)
+
 ## 🌳 My Bonsai Tree:
 <img src="output/bonsai-growth.gif" width="384" alt="my git-bonsai" />
 
